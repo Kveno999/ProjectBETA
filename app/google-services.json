@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451187278340",
+    "project_id": "agro-town",
+    "storage_bucket": "agro-town.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451187278340:android:303c54d434f7e8bf8aab51",
+        "android_client_info": {
+          "package_name": "com.example.agro_town"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451187278340-fq0ts4vg474c5bn84ioij7ujttsq2et1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agro_town",
+            "certificate_hash": "a046b4e5b95928e0c051e0b722150a7ce1c7facf"
+          }
+        },
+        {
+          "client_id": "451187278340-ptqku3uu5ms37ck8ajmr0763kcmtcsmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Yo3SSfCmPqU-hDkoSWUkXKLUpV2GwYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451187278340-ptqku3uu5ms37ck8ajmr0763kcmtcsmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
